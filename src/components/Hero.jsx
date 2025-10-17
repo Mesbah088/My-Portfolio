@@ -108,7 +108,7 @@ const Hero = () => {
           <div className="relative lg:block">
             <div className="relative z-10">
               <img
-                src="/src/assets/WhatsApp Image 2025-05-06 at 12.40.34.jpeg"
+                src="/My pic.png"
                 alt="Developer portrait"
                 className="w-full max-w-lg mx-auto rounded-2xl shadow-2xl"
               />
